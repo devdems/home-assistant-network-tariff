@@ -9,6 +9,12 @@ This custom component for Home Assistant calculates the current network fee tari
 - Adjusts tariffs for high and low seasons.
 
 ## Installation
+Ensure you have [HACS](https://hacs.xyz/) installed in your Home Assistant.
+
+### Method 1 _(easiest)_:
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=frlequ&repository=home-assistant-network-tariff&category=plugin)
+
+### Method 2: 
 
 1. **Download the Custom Component**
    - Download the files from the repository.
